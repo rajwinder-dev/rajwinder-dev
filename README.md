@@ -8,7 +8,10 @@ I'm a web developer focused on building fast, clean, and modern websites.
 
 
 ## 🛠️ Tech Stack
-HTML • CSS • JavaScript • React • Node.js • MongoDB • Express • Tailwind CSS
+HTML • CSS • JavaScript • React • Node.js • PostgreSql   • Typescript  • Express • Tailwind CSS
+
+## Other 
+Mongodb • Next.js • Websockets • Supabase  
 
 ## 📫 Contact
 📩 [Email me](mailto:rajwindersxxx@gmail.com) | 🔗 [Portfolio](https://tiven.xyz)

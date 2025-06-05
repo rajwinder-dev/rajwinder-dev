@@ -1,17 +1,14 @@
-# 👋 Hi, I'm Raj
+# 👋 Hi, I'm Rajwinder singh
 
 I'm a web developer focused on building fast, clean, and modern websites.
 
-- 🌐 Full-stack projects at [@raj-fullstack-org](https://github.com/raj-fullstack-org)
-- 🎨 UI/UX and animation work in [@raj-frontend-lab](https://github.com/raj-frontend-lab)
+- 🌐 Intership challanges  [@intership-project-tiven](https://github.com/orgs/intership-projects-tiven)
+- 🌐 Couse Projects and challanges [@course-project-tiven](https://github.com/orgs/course-projects-tiven)
+- 🌐 Old projects  [@old-project-tiven](https://github.com/orgs/old-projects-tiven/)
 
-## 🚀 Featured Projects
-
-- [Booking App](https://github.com/raj-fullstack-org/booking-app) – Full-stack MERN app with authentication, payments, and search
-- [3D Portfolio](https://github.com/raj-frontend-lab/3d-portfolio) – Smooth scroll & animations using GSAP + Three.js
 
 ## 🛠️ Tech Stack
 HTML • CSS • JavaScript • React • Node.js • MongoDB • Express • Tailwind CSS
 
 ## 📫 Contact
-📩 [Email me](mailto:raj@example.com) | 🔗 [Portfolio](https://raj.dev)
+📩 [Email me](mailto:rajwindersxxx@gmail.com) | 🔗 [Portfolio](https://tiven.xyz)

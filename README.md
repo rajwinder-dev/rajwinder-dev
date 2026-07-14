@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rajwinder Pal Singh</h1>
+<h1 align="center">Hi 👋, I'm Rajwinder Singh</h1>
 
 <h3 align="center">
 Full-Stack Developer • TypeScript • PERN Stack • Backend Engineering

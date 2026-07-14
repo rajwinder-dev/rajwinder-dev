@@ -108,13 +108,11 @@ Docker
 
 ## 📊 GitHub Stats
 
-<p align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajwinder-dev&show_icons=true&theme=github_dark&cache_seconds=86400)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rajwinder-dev&show_icons=true&theme=github_dark"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajwinder-dev&layout=compact&theme=github_dark&cache_seconds=86400)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajwinder-dev&layout=compact&theme=github_dark"/>
-
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=rajwinder-dev&theme=github-dark)
 
 ---
 
